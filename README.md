@@ -1,6 +1,6 @@
-# Intima privacy policy
+# Intima privacy notice redirect
 
-This repository publishes the privacy policy for the Intima Garmin Connect IQ application.
+The Intima privacy notice now lives in the shared Ophi Apps Privacy Center. This repository preserves the original public URL and redirects visitors to the current notice.
 
-[View the published privacy policy](https://ottodo.github.io/intima-privacy/)
+[View the current Intima privacy notice](https://ottodo.github.io/ophi-apps/privacy/intima/)
 Privacy policy for the Intima Garmin Connect IQ app
